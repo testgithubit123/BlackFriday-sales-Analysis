@@ -8,21 +8,30 @@ The dataset used for this analysis is the Black Friday dataset, which includes i
 # Analysis
 The analysis focuses on the following columns:
 
- # User ID: Represents the unique identifier of each customer.
+ # User ID:
+ Represents the unique identifier of each customer.
 
- # Gender: Indicates the gender of the customer (Male/Female).
+ # Gender: 
+ Indicates the gender of the customer (Male/Female).
 
- # Age: Categorizes customers into different age groups (e.g., 18-25, 26-35, etc.).
+ # Age:
+ Categorizes customers into different age groups (e.g., 18-25, 26-35, etc.).
 
-# Occupation: Describes the occupation of the customer.
+# Occupation: 
 
-# City Category: Represents the category of the city where the customer resides (A, B, or C).
 
-# Product Category: Specifies the category of the product purchased.
+Describes the occupation of the customer.
 
-# Purchase: Indicates the purchase amount in dollars made by the customer.
+# City Category:
+Represents the category of the city where the customer resides (A, B, or C).
 
-For each of these columns, we will perform the following analyses:
+# Product Category: 
+Specifies the category of the product purchased.
+
+# Purchase:
+Indicates the purchase amount in dollars made by the customer.
+
+# For each of these columns, we will perform the following analyses:
 
 # Data Exploration: 
 We will examine the distribution of values, identify any missing values.
@@ -38,7 +47,7 @@ Based on the analysis, we will derive insights and make observations about the B
 # Conclusion
 # The Black Friday sales analysis provides valuable insights into customer behavior and trends during this shopping event. By analyzing different columns such as gender, age, occupation, city category, and product categories, we can gain a deeper understanding of the preferences and patterns observed during Black Friday sales. Additionally, by comparing two columns and creating pie charts and bar graphs, we can visualize the relationships between different factors.
 
-Happy analyzing and shopping!
+
 
 
 
